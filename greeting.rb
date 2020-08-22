@@ -3,3 +3,4 @@ def greeting
 end
 
 greeting do 5.times
+end
